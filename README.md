@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/90495133/135727150-2a3f3b47-8724-4181-90d3-ecab8fa2e5ca.png)
+![image](https://user-images.githubusercontent.com/90495133/135727237-6ed2ad18-04e6-4153-8b0f-5aeaa90d392c.png)
 # Sindarin-translator
 A web-app based on vanilla JS. This is a translator app.In this app use api for translate the english(US) language to sindarin language.
 
